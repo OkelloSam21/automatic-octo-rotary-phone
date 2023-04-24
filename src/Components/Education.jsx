@@ -20,13 +20,13 @@ const Education = () => {
                 </div>
                 <div className="education-item">
                     <h3>High School</h3>
-                    <p>Name of School: Maliera Boys Secondary </p>
-                    <p>Date Attended: 2017 - 2020</p>
+                    <p>Maliera Boys Secondary </p>
+                    <p>2017 - 2020</p>
                 </div>
                 <div className="education-item">
-                    <h3>Higher Learning</h3>
-                    <p>Name of School: Kibabi University</p>
-                    <p>Date Attended: 2021 - to date...</p>
+                    <h3>Higher Education</h3>
+                    <p>Kibabi University</p>
+                    <p>2021 - to date...</p>
                 </div>
             </div>
         </section>
