@@ -12,6 +12,7 @@
   "postAttachCommand": {
     "server": "npm start"
   },
+  "oderwat.indent-rainbow":"",
 
   // Configure tool-specific properties.
   "customizations": {
@@ -29,7 +30,8 @@
         "emmet.includeLanguages": {
           "javascript": "javascriptreact"
         },
-        "emmet.triggerExpansionOnTab": true
+        "emmet.triggerExpansionOnTab": true,
+           
       }
     }
   },
