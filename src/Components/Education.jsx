@@ -16,7 +16,7 @@ const Education = () => {
                 <div className="education-item">
                     <h3>Primary School</h3>
                     <p>Simerro Primaty School</p>
-                    <p>Date Attended: 2009 - 2016</p>
+                    <p> 2009 - 2016</p>
                 </div>
                 <div className="education-item">
                     <h3>High School</h3>
