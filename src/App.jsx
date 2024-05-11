@@ -29,7 +29,6 @@ const siteProps = {
   title: "Junior Software Engineer",
   email: "samuel.okello@studentambassadors.com",
   gitHub: "OelloSam21",
-  instagram: "devsam254",
   linkedIn: "samuel-okello",
   medium: "",
   twitter: "0kello_sam",
